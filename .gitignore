@@ -1,0 +1,65 @@
+# =========================
+# Python bytecode / cache
+# =========================
+__pycache__/
+*.py[cod]
+*.pyo
+*.pyd
+*.so
+
+# =========================
+# Virtual environment
+# =========================
+venv/
+.env/
+.venv/
+
+# =========================
+# Local data outputs
+# =========================
+data_processed/
+*.csv
+*.parquet
+*.feather
+
+# If you want to commit the processed CSVs for reproducibility,
+# remove 'data_processed/' and instead explicitly ignore big files.
+# Right now we assume they're generated artifacts and shouldn't be in git.
+
+# =========================
+# Jupyter / notebooks
+# =========================
+.ipynb_checkpoints/
+*.ipynb
+src/.ipynb_checkpoints/
+src/.jupyter/
+.jupyter/
+
+# =========================
+# VSCode / editors / IDEs
+# =========================
+.vscode/
+*.code-workspace
+.idea/
+*.swp
+*.swo
+
+# =========================
+# Logs / debug / temp
+# =========================
+*.log
+*.tmp
+*.temp
+.DS_Store
+
+# =========================
+# Python packaging/build
+# (future-proofing in case you package this)
+# =========================
+build/
+dist/
+*.egg-info/
+.eggs/
+pip-wheel-metadata/
+*.egg
+

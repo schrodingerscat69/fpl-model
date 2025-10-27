@@ -463,7 +463,7 @@ def main():
         how="left"
     )
 
-    # 7. overall top picks
+    # 7. sort overall by predicted points (high to low)
     preds_named = preds_named.sort_values(by="predicted_points", ascending=False)
 
     print("\nTop overall predicted players for next GW (pre-deadline):")
@@ -475,6 +475,25 @@ def main():
 
     # per-position captain/transfer help
     print_top_by_position(preds_named, top_n=10)
+
+    # 8. SAVE PREDICTIONS TO CSV FOR THIS GW
+    # build a clean table to persist
+    df_preds_all = preds_named[[
+        "gameweek",
+        "player_name",
+        "team_short",
+        "position",
+        "predicted_points"
+    ]].copy()
+
+    # create predictions/ dir if not exists
+    predictions_dir = PROJECT_ROOT / "predictions"
+    predictions_dir.mkdir(exist_ok=True)
+
+    # file name = gw<next_gw>_predictions.csv
+    outfile = predictions_dir / f"gw{next_gw}_predictions.csv"
+    df_preds_all.to_csv(outfile, index=False)
+    print(f"\nSaved predictions to {outfile}")
 
 
 if __name__ == "__main__":

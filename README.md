@@ -65,8 +65,11 @@ This repo (`fpl-model`) does:
 18. Welbeck (BHA, FWD)        6.82
 19. De Cuyper (BHA, DEF)      6.82
 20. Guéhi (CRY, DEF)          6.78
+```
+---
 
 ### Top 10 GoalKeepers
+```text 
 1. Kelleher (BRE)    7.64
 2. Roefs (SUN)       7.54
 3. Dúbravka (BUR)    2.57
@@ -77,8 +80,11 @@ This repo (`fpl-model`) does:
 8. Verbruggen (BHA)  1.98
 9. Pope (NEW)        1.93
 10. Vicario (TOT)    1.90
+```
+---
 
 ### Top 10 Defenders
+``` text 
 1. Gabriel (ARS)        11.72
 2. Alderete (SUN)       10.42
 3. Keane (EVE)           8.37
@@ -89,8 +95,11 @@ This repo (`fpl-model`) does:
 8. Guéhi (CRY)           6.78
 9. James (CHE)           5.74
 10. J. Timber (ARS)      5.20
+```
+---
 
 ## Top 10 Midfielders
+```text
 1. Sarr (CRY)           9.47
 2. Buendía (AVL)        8.56
 3. Xhaka (SUN)          8.18
@@ -101,9 +110,11 @@ This repo (`fpl-model`) does:
 8. Gravenberch (LIV)    6.67
 9. Rice (ARS)           6.21
 10. Yarmoliuk (BRE)     5.95
-
+```
+---
 
 ## Top 10 Forwards
+```text
 1. Haaland (MCI)        9.91
 2. Thiago (BRE)         8.89
 3. Watkins (AVL)        7.56
@@ -114,4 +125,4 @@ This repo (`fpl-model`) does:
 8. Šeško (MUN)          4.34
 9. Kroupi Jr (BOU)      4.23
 10. Nketiah (CRY)       3.51
-
+```

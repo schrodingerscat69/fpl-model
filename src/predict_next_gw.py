@@ -259,6 +259,8 @@ def build_train_frame_for_model(df_hist_full):
         "team_elo",
         "opp_elo",
         "opp_def_strength",
+        "team_code",
+        "opp_code",
     ]
 
     # clean snapshot text -> numeric

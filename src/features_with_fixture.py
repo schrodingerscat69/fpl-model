@@ -298,21 +298,26 @@ def add_fixture_features(df_raw):
 
 def add_rolling_features(df):
     """
-    For each player within each season, sorted by gameweek,
-    compute lag/rolling stats that only use PAST info:
-      - pts_prev_gw
-      - pts_avg_last3
-      - mins_avg_last3
-      - played60_rate_last3
+    Adds rolling/lag features for each player, based only on PAST gameweeks.
+    We compute both last-3 and last-5 style features.
+
+    New columns (examples):
+      pts_avg_last5
+      mins_avg_last5
+      played60_rate_last5
+      xgi_avg_last3, xgi_avg_last5
+      shots_last3, shots_last5
+      cs_rate_last3, cs_rate_last5
+      gc_avg_last3, gc_avg_last5
     """
+
     df = df.sort_values(by=["season", PLAYER_ID_COL, "gameweek"]).copy()
 
     g = df.groupby(["season", PLAYER_ID_COL], group_keys=False)
 
-    # last GW points
+    # Base lag stuff (already had)
     df["pts_prev_gw"] = g["event_points"].shift(1)
 
-    # avg points last 3 (excluding current gw)
     df["pts_avg_last3"] = (
         g["event_points"]
         .shift(1)
@@ -320,7 +325,13 @@ def add_rolling_features(df):
         .mean()
     )
 
-    # avg minutes last 3
+    df["pts_avg_last5"] = (
+        g["event_points"]
+        .shift(1)
+        .rolling(window=5, min_periods=1)
+        .mean()
+    )
+
     df["mins_avg_last3"] = (
         g["minutes"]
         .shift(1)
@@ -328,8 +339,16 @@ def add_rolling_features(df):
         .mean()
     )
 
-    # rate of playing >=60 min over last 3
+    df["mins_avg_last5"] = (
+        g["minutes"]
+        .shift(1)
+        .rolling(window=5, min_periods=1)
+        .mean()
+    )
+
+    # Played >=60 proxy for nailedness
     played60 = (df["minutes"] >= 60).astype(float)
+
     df["played60_rate_last3"] = (
         g[played60.name]
         .shift(1)
@@ -337,7 +356,96 @@ def add_rolling_features(df):
         .mean()
     )
 
+    df["played60_rate_last5"] = (
+        g[played60.name]
+        .shift(1)
+        .rolling(window=5, min_periods=1)
+        .mean()
+    )
+
+    # xGI = xG + xA
+    if "expected_goals" in df.columns and "expected_assists" in df.columns:
+        df["xgi"] = df["expected_goals"].fillna(0) + df["expected_assists"].fillna(0)
+
+        df["xgi_avg_last3"] = (
+            g["xgi"]
+            .shift(1)
+            .rolling(window=3, min_periods=1)
+            .mean()
+        )
+
+        df["xgi_avg_last5"] = (
+            g["xgi"]
+            .shift(1)
+            .rolling(window=5, min_periods=1)
+            .mean()
+        )
+    else:
+        df["xgi_avg_last3"] = np.nan
+        df["xgi_avg_last5"] = np.nan
+
+    # total shots rolling
+    if "goals_scored" in df.columns and "assists" in df.columns and "goals_conceded" in df.columns:
+        # if you have "total_shots" use that; if not, skip this block
+        if "total_shots" in df.columns:
+            df["shots_last3"] = (
+                g["total_shots"]
+                .shift(1)
+                .rolling(window=3, min_periods=1)
+                .sum()
+            )
+
+            df["shots_last5"] = (
+                g["total_shots"]
+                .shift(1)
+                .rolling(window=5, min_periods=1)
+                .sum()
+            )
+        else:
+            df["shots_last3"] = np.nan
+            df["shots_last5"] = np.nan
+    else:
+        df["shots_last3"] = np.nan
+        df["shots_last5"] = np.nan
+
+    # defensive trend features:
+    # clean_sheets, goals_conceded
+    if "clean_sheets" in df.columns:
+        df["cs_rate_last3"] = (
+            g["clean_sheets"]
+            .shift(1)
+            .rolling(window=3, min_periods=1)
+            .mean()
+        )
+        df["cs_rate_last5"] = (
+            g["clean_sheets"]
+            .shift(1)
+            .rolling(window=5, min_periods=1)
+            .mean()
+        )
+    else:
+        df["cs_rate_last3"] = np.nan
+        df["cs_rate_last5"] = np.nan
+
+    if "goals_conceded" in df.columns:
+        df["gc_avg_last3"] = (
+            g["goals_conceded"]
+            .shift(1)
+            .rolling(window=3, min_periods=1)
+            .mean()
+        )
+        df["gc_avg_last5"] = (
+            g["goals_conceded"]
+            .shift(1)
+            .rolling(window=5, min_periods=1)
+            .mean()
+        )
+    else:
+        df["gc_avg_last3"] = np.nan
+        df["gc_avg_last5"] = np.nan
+
     return df
+
 
 
 def build_training_table_with_fixture(df_raw_enriched):

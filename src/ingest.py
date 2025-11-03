@@ -91,7 +91,7 @@ def main():
         .drop_duplicates()
         .sort_values(["season", "gameweek"])
         .groupby("season")
-        .head(5)
+        .head(20)
     )
     print("Sample season/gameweek combos:\n", preview)
 

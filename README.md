@@ -43,84 +43,84 @@ This repo (`fpl-model`) does:
 **Upcoming GW11 (model forecast)**
 ### Top 20 Overall 
 ```text
- 1. Malen (AVL, MID)        12.16
- 2. Semenyo (BOU, MID)      11.66
- 3. Gabriel (ARS, DEF)       9.92
- 4. Burn (NEW, DEF)          9.13
- 5. Bruno G. (NEW, MID)      9.10
- 6. Kudus (TOT, MID)         8.92
- 7. Gvardiol (MCI, DEF)      8.59
- 8. Mount (MUN, MID)         8.49
- 9. Rúben (MCI, DEF)         8.26
-10. Estêvão (CHE, MID)       8.21
-11. J. Timber (ARS, DEF)     7.76
-12. Thiaw (NEW, DEF)         7.62
-13. Rice (ARS, MID)          7.37
-14. Ndiaye (EVE, MID)        7.13
-15. Saka (ARS, MID)          7.00
-16. Šeško (MUN, FWD)         6.95
-17. Grealish (EVE, MID)      6.92
-18. Sessegnon (FUL, MID)     6.89
-19. Shaw (MUN, DEF)          6.77
-20. Sarr (CRY, MID)          6.73
+ 1. Malen (AVL, MID)                11.895
+ 2. Gabriel (ARS, DEF)              10.390
+ 3. Gvardiol (MCI, DEF)              9.385
+ 4. Burn (NEW, DEF)                  9.270
+ 5. Bruno G. (NEW, MID)              8.875
+ 6. Rúben (MCI, DEF)                 8.145
+ 7. Grealish (EVE, MID)              7.845
+ 8. Thiaw (NEW, DEF)                 7.600
+ 9. Neto (CHE, MID)                  7.330
+10. Mbeumo (MUN, MID)                6.730
+11. Van Hecke (BHA, DEF)             6.695
+12. Sarr (CRY, MID)                  6.610
+13. H.Bueno (WOL, DEF)               6.595
+14. Van de Ven (TOT, DEF)            6.565
+15. James (CHE, DEF)                 6.470
+16. Trossard (ARS, MID)              6.110
+17. Trippier (NEW, DEF)              6.110
+18. Pope (NEW, GK)                   6.025
+19. Saka (ARS, MID)                  5.785
+20. Talbi (SUN, MID)                 5.715
 ```
 ---
 
 ### Top 10 GoalKeepers
 ```text
- 1. Pope (NEW)        6.16
- 2. Lammens (MUN)     6.13
- 3. Raya (ARS)        5.60
- 4. Donnarumma (MCI)  5.58
- 5. Sels (NFO)        2.66
- 6. Vicario (TOT)     2.56
- 7. Pickford (EVE)    2.45
- 8. Kelleher (BRE)    2.27
- 9. Petrović (BOU)    2.18
-10. Areola (WHU)      1.97
+ 1. Pope (NEW, GK)                   6.025
+ 2. Raya (ARS, GK)                   5.675
+ 3. Roefs (SUN, GK)                  5.440
+ 4. Donnarumma (MCI, GK)             4.530
+ 5. Petrović (BOU, GK)               3.125
+ 6. Leno (FUL, GK)                   2.665
+ 7. Sels (NFO, GK)                   2.635
+ 8. Kelleher (BRE, GK)               2.475
+ 9. Vicario (TOT, GK)                2.455
+10. Sánchez (CHE, GK)                2.365
 ```
 ---
 
 ### Top 10 Defenders
 ``` text
- 1. Gabriel (ARS)     9.92
- 2. Burn (NEW)        9.13
- 3. Gvardiol (MCI)    8.59
- 4. Rúben (MCI)       8.26
- 5. J. Timber (ARS)   7.76
- 6. Thiaw (NEW)       7.62
- 7. Shaw (MUN)        6.77
- 8. H. Bueno (WOL)    6.50
- 9. Van Hecke (BHA)   6.37
-10. Dalot (MUN)       6.33
+ 1. Gabriel (ARS, DEF)              10.390
+ 2. Gvardiol (MCI, DEF)              9.385
+ 3. Burn (NEW, DEF)                  9.270
+ 4. Rúben (MCI, DEF)                 8.145
+ 5. Thiaw (NEW, DEF)                 7.600
+ 6. Van Hecke (BHA, DEF)             6.695
+ 7. H.Bueno (WOL, DEF)               6.595
+ 8. Van de Ven (TOT, DEF)            6.565
+ 9. James (CHE, DEF)                 6.470
+10. Trippier (NEW, DEF)              6.110
 ```
 ---
 
 ## Top 10 Midfielders
 ```text
- 1. Malen (AVL)      12.16
- 2. Semenyo (BOU)    11.66
- 3. Bruno G. (NEW)    9.10
- 4. Kudus (TOT)       8.92
- 5. Mount (MUN)       8.49
- 6. Estêvão (CHE)     8.21
- 7. Rice (ARS)        7.37
- 8. Ndiaye (EVE)      7.13
- 9. Saka (ARS)        7.00
-10. Grealish (EVE)    6.92
+ 1. Malen (AVL, MID)                11.895
+ 2. Bruno G. (NEW, MID)              8.875
+ 3. Grealish (EVE, MID)              7.845
+ 4. Neto (CHE, MID)                  7.330
+ 5. Mbeumo (MUN, MID)                6.730
+ 6. Sarr (CRY, MID)                  6.610
+ 7. Trossard (ARS, MID)              6.110
+ 8. Saka (ARS, MID)                  5.785
+ 9. Talbi (SUN, MID)                 5.715
+10. Rice (ARS, MID)                  5.495
 ```
 ---
 
 ## Top 10 Forwards
 ```text
- 1. Šeško (MUN)        6.95
- 2. Woltemade (NEW)    5.34
- 3. Haaland (MCI)      5.11
- 4. Isak (LIV)         4.45
- 5. Welbeck (BHA)      3.78
- 6. Mateta (CRY)       3.73
- 7. Tzimas (BHA)       3.36
- 8. Gyökeres (ARS)     2.40
- 9. Thiago (BRE)       1.96
-10. João Pedro (CHE)   1.80
+ 1. Woltemade (NEW, FWD)             5.120
+ 2. Haaland (MCI, FWD)               4.695
+ 3. Kroupi.Jr (BOU, FWD)             3.990
+ 4. João Pedro (CHE, FWD)            3.810
+ 5. Mateta (CRY, FWD)                3.675
+ 6. Welbeck (BHA, FWD)               3.565
+ 7. Tzimas (BHA, FWD)                3.290
+ 8. Isidor (SUN, FWD)                2.880
+ 9. Raúl (FUL, FWD)                  2.690
+10. Gyökeres (ARS, FWD)              2.435
 ```

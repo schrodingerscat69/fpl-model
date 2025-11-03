@@ -36,93 +36,91 @@ This repo (`fpl-model`) does:
    - Top overall projected scorers
    - Top 10 GKs / DEFs / MIDs / FWDs for the upcoming GW  
    → This is what I actually use before the deadline.
-
+5. This is not a complete and fine-tuned model yet. For example: I have not included latest data on injuries so the model doesn't know if, for eg: Martinelli is injured right now (as of Nov 2, 2025)
 ---
 
 ## 🗓 Latest Predictions
-
-**Upcoming GW10 (model forecast)**
-
-### Top 20 Overall
+**Upcoming GW11 (model forecast)**
+### Top 20 Overall 
 ```text
-1. Gabriel (ARS, DEF)        11.72
-2. Alderete (SUN, DEF)       10.42
-3. Haaland (MCI, FWD)         9.91
-4. Sarr (CRY, MID)            9.47
-5. Thiago (BRE, FWD)          8.89
-6. Buendía (AVL, MID)         8.56
-7. Keane (EVE, DEF)           8.37
-8. S. Bueno (WOL, DEF)        8.25
-9. Xhaka (SUN, MID)           8.18
-10. Longstaff (LEE, MID)      7.99
-11. Doku (MCI, MID)           7.92
-12. Enzo (CHE, MID)           7.71
-13. Matheus N. (MCI, DEF)     7.68
-14. Kelleher (BRE, GK)        7.63
-15. Watkins (AVL, FWD)        7.56
-16. Roefs (SUN, GK)           7.54
-17. Mukiele (SUN, DEF)        7.38
-18. Welbeck (BHA, FWD)        6.82
-19. De Cuyper (BHA, DEF)      6.82
-20. Guéhi (CRY, DEF)          6.78
+ 1. Malen (AVL, MID)        12.16
+ 2. Semenyo (BOU, MID)      11.66
+ 3. Gabriel (ARS, DEF)       9.92
+ 4. Burn (NEW, DEF)          9.13
+ 5. Bruno G. (NEW, MID)      9.10
+ 6. Kudus (TOT, MID)         8.92
+ 7. Gvardiol (MCI, DEF)      8.59
+ 8. Mount (MUN, MID)         8.49
+ 9. Rúben (MCI, DEF)         8.26
+10. Estêvão (CHE, MID)       8.21
+11. J. Timber (ARS, DEF)     7.76
+12. Thiaw (NEW, DEF)         7.62
+13. Rice (ARS, MID)          7.37
+14. Ndiaye (EVE, MID)        7.13
+15. Saka (ARS, MID)          7.00
+16. Šeško (MUN, FWD)         6.95
+17. Grealish (EVE, MID)      6.92
+18. Sessegnon (FUL, MID)     6.89
+19. Shaw (MUN, DEF)          6.77
+20. Sarr (CRY, MID)          6.73
 ```
 ---
 
 ### Top 10 GoalKeepers
-```text 
-1. Kelleher (BRE)    7.64
-2. Roefs (SUN)       7.54
-3. Dúbravka (BUR)    2.57
-4. Areola (WHU)      2.46
-5. Martinez (AVL)    2.36
-6. Petrović (BOU)    2.20
-7. Raya (ARS)        2.07
-8. Verbruggen (BHA)  1.98
-9. Pope (NEW)        1.93
-10. Vicario (TOT)    1.90
+```text
+ 1. Pope (NEW)        6.16
+ 2. Lammens (MUN)     6.13
+ 3. Raya (ARS)        5.60
+ 4. Donnarumma (MCI)  5.58
+ 5. Sels (NFO)        2.66
+ 6. Vicario (TOT)     2.56
+ 7. Pickford (EVE)    2.45
+ 8. Kelleher (BRE)    2.27
+ 9. Petrović (BOU)    2.18
+10. Areola (WHU)      1.97
 ```
 ---
 
 ### Top 10 Defenders
-``` text 
-1. Gabriel (ARS)        11.72
-2. Alderete (SUN)       10.42
-3. Keane (EVE)           8.37
-4. S. Bueno (WOL)        8.25
-5. Matheus N. (MCI)      7.68
-6. Mukiele (SUN)         7.38
-7. De Cuyper (BHA)       6.82
-8. Guéhi (CRY)           6.78
-9. James (CHE)           5.74
-10. J. Timber (ARS)      5.20
+``` text
+ 1. Gabriel (ARS)     9.92
+ 2. Burn (NEW)        9.13
+ 3. Gvardiol (MCI)    8.59
+ 4. Rúben (MCI)       8.26
+ 5. J. Timber (ARS)   7.76
+ 6. Thiaw (NEW)       7.62
+ 7. Shaw (MUN)        6.77
+ 8. H. Bueno (WOL)    6.50
+ 9. Van Hecke (BHA)   6.37
+10. Dalot (MUN)       6.33
 ```
 ---
 
 ## Top 10 Midfielders
 ```text
-1. Sarr (CRY)           9.47
-2. Buendía (AVL)        8.56
-3. Xhaka (SUN)          8.18
-4. Longstaff (LEE)      7.99
-5. Doku (MCI)           7.92
-6. Enzo (CHE)           7.71
-7. Semenyo (BOU)        6.68
-8. Gravenberch (LIV)    6.67
-9. Rice (ARS)           6.21
-10. Yarmoliuk (BRE)     5.95
+ 1. Malen (AVL)      12.16
+ 2. Semenyo (BOU)    11.66
+ 3. Bruno G. (NEW)    9.10
+ 4. Kudus (TOT)       8.92
+ 5. Mount (MUN)       8.49
+ 6. Estêvão (CHE)     8.21
+ 7. Rice (ARS)        7.37
+ 8. Ndiaye (EVE)      7.13
+ 9. Saka (ARS)        7.00
+10. Grealish (EVE)    6.92
 ```
 ---
 
 ## Top 10 Forwards
 ```text
-1. Haaland (MCI)        9.91
-2. Thiago (BRE)         8.89
-3. Watkins (AVL)        7.56
-4. Welbeck (BHA)        6.82
-5. Bowen (WHU)          6.35
-6. Woltemade (NEW)      5.88
-7. Raúl (FUL)           5.06
-8. Šeško (MUN)          4.34
-9. Kroupi Jr (BOU)      4.23
-10. Nketiah (CRY)       3.51
+ 1. Šeško (MUN)        6.95
+ 2. Woltemade (NEW)    5.34
+ 3. Haaland (MCI)      5.11
+ 4. Isak (LIV)         4.45
+ 5. Welbeck (BHA)      3.78
+ 6. Mateta (CRY)       3.73
+ 7. Tzimas (BHA)       3.36
+ 8. Gyökeres (ARS)     2.40
+ 9. Thiago (BRE)       1.96
+10. João Pedro (CHE)   1.80
 ```

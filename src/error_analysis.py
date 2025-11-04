@@ -28,7 +28,7 @@ DATA_DIR = ROOT / "data_processed"
 PRED_DIR = ROOT / "predictions"
 TRAIN_FILE = DATA_DIR / "training_table_with_fixture.csv"
 
-EA_DIR = PRED_DIR / "error_analysis"
+EA_DIR = DATA_DIR / "error_analysis"
 EA_DIR.mkdir(parents=True, exist_ok=True)
 
 # Season metadata (used only if we must resolve IDs)

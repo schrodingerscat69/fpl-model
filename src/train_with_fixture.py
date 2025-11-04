@@ -432,7 +432,7 @@ def main():
     )
     print(df_export.head(20))
 
-    out_csv = PROJECT_ROOT / "data_processed" / f"model_residuals_gw{EVAL_GW}.csv"
+    out_csv = PROJECT_ROOT / "data_processed" / "residuals" / f"model_residuals_gw{EVAL_GW}.csv"
     df_export.to_csv(out_csv, index=False)
     print(f"\nResidual analysis for GW{EVAL_GW} saved to: {out_csv}")
 

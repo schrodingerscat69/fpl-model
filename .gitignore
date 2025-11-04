@@ -22,16 +22,16 @@ venv/
 *.parquet
 *.feather
 
-!data_processed/error_analysis
-!data_processed/plots
+!data_processed/error_analysis/
+!data_processed/error_analysis/**/
+!data_processed/error_analysis/*/*.csv
+
+
 !data_processed/residuals/
 !data_processed/residuals/**/
 !data_processed/residuals/**/*.csv
 
 !predictions/*.csv
-!predictions/error_analysis/
-!predictions/error_analysis/**/
-!predictions/error_analysis/**/*.csv
 
 # predictions/
 Potential-Transfers

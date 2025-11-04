@@ -22,6 +22,8 @@ venv/
 *.parquet
 *.feather
 
+!data_processed/error_analysis
+!data_processed/plots
 !data_processed/residuals/
 !data_processed/residuals/**/
 !data_processed/residuals/**/*.csv

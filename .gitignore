@@ -24,7 +24,7 @@ venv/
 
 !data_processed/error_analysis/
 !data_processed/error_analysis/**/
-!data_processed/error_analysis/*/*.csv
+!data_processed/error_analysis/**/*.csv
 
 
 !data_processed/residuals/

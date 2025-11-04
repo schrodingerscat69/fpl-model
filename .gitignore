@@ -21,6 +21,15 @@ venv/
 *.csv
 *.parquet
 *.feather
+
+!data_processed/residuals/
+!data_processed/residuals/**/
+!data_processed/residuals/**/*.csv
+
+!predictions/error_analysis/
+!predictions/error_analysis/**/
+!predictions/error_analysis/**/*.csv
+
 # predictions/
 Potential-Transfers
 # If you want to commit the processed CSVs for reproducibility,

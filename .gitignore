@@ -26,7 +26,7 @@ venv/
 !predictions/*.csv
 
 # predictions/
-# Potential-Transfers
+ Potential-Transfers
 
 # If you want to commit the processed CSVs for reproducibility,
 # remove 'data_processed/' and instead explicitly ignore big files.

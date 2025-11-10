@@ -17,7 +17,10 @@ venv/
 # =========================
 # Local data outputs
 # =========================
-#data_processed/
+data_processed/**
+
+!data_processed/plots/
+!data_processed/plots/**
 *.csv
 *.parquet
 *.feather
@@ -26,7 +29,7 @@ venv/
 !predictions/*.csv
 
 # predictions/
- Potential-Transfers
+
 
 # If you want to commit the processed CSVs for reproducibility,
 # remove 'data_processed/' and instead explicitly ignore big files.

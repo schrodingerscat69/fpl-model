@@ -22,19 +22,12 @@ venv/
 *.parquet
 *.feather
 
-!data_processed/error_analysis/
-!data_processed/error_analysis/**/
-!data_processed/error_analysis/**/*.csv
-
-
-!data_processed/residuals/
-!data_processed/residuals/**/
-!data_processed/residuals/**/*.csv
 
 !predictions/*.csv
 
 # predictions/
-Potential-Transfers
+# Potential-Transfers
+
 # If you want to commit the processed CSVs for reproducibility,
 # remove 'data_processed/' and instead explicitly ignore big files.
 # Right now we assume they're generated artifacts and shouldn't be in git.

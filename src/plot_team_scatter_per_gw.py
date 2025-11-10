@@ -20,7 +20,7 @@ import matplotlib.pyplot as plt
 # ---------- repo paths ----------
 THIS = Path(__file__).resolve()
 ROOT = THIS.parent.parent
-PRED_ERR_DIR = ROOT / "predictions" / "error_analysis"
+PRED_ERR_DIR = ROOT / "data_processed" / "error_analysis"
 OUT_BASE = ROOT / "data_processed" / "plots"
 
 # ---------- helpers ----------

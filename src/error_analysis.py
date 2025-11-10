@@ -26,7 +26,7 @@ THIS = Path(__file__).resolve()
 ROOT = THIS.parent.parent
 DATA_DIR = ROOT / "data_processed"
 PRED_DIR = ROOT / "predictions"
-TRAIN_FILE = DATA_DIR / "training_table_with_fixture.csv"
+TRAIN_FILE = DATA_DIR / "training_base_raw.csv"
 
 EA_DIR = DATA_DIR / "error_analysis"
 EA_DIR.mkdir(parents=True, exist_ok=True)

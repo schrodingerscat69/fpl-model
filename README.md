@@ -36,91 +36,91 @@ This repo (`fpl-model`) does:
    - Top overall projected scorers
    - Top 10 GKs / DEFs / MIDs / FWDs for the upcoming GW  
    → This is what I actually use before the deadline.
-5. This is not a complete and fine-tuned model yet. For example: I have not included latest data on injuries so the model doesn't know if, for eg: Martinelli is injured right now (as of Nov 2, 2025)
+5. This is not a complete and fine-tuned model yet. For example: I have not included latest data on injuries so the model doesn't know if, for eg: Martinelli is injured right now (as of Nov 2, 2025). In addition, the model does not account for injuries, performance of players in other tournaments, etc.
 ---
 
 ## 🗓 Latest Predictions
 **Upcoming GW11 (model forecast)**
 ### Top 20 Overall 
 ```text
- 1. Malen (AVL, MID)                11.895
- 2. Gabriel (ARS, DEF)              10.390
- 3. Gvardiol (MCI, DEF)              9.385
- 4. Burn (NEW, DEF)                  9.270
- 5. Bruno G. (NEW, MID)              8.875
- 6. Rúben (MCI, DEF)                 8.145
- 7. Grealish (EVE, MID)              7.845
- 8. Thiaw (NEW, DEF)                 7.600
- 9. Neto (CHE, MID)                  7.330
-10. Mbeumo (MUN, MID)                6.730
-11. Van Hecke (BHA, DEF)             6.695
-12. Sarr (CRY, MID)                  6.610
-13. H.Bueno (WOL, DEF)               6.595
-14. Van de Ven (TOT, DEF)            6.565
-15. James (CHE, DEF)                 6.470
-16. Trossard (ARS, MID)              6.110
-17. Trippier (NEW, DEF)              6.110
-18. Pope (NEW, GK)                   6.025
-19. Saka (ARS, MID)                  5.785
-20. Talbi (SUN, MID)                 5.715
+ 1. Casemiro (MUN, MID)            10.440
+ 2. Mbeumo (MUN, MID)               7.860
+ 3. J.Timber (ARS, DEF)             7.320
+ 4. Raya (ARS, GK)                  7.235
+ 5. Neto (CHE, MID)                 7.095
+ 6. Calafiori (ARS, DEF)            6.795
+ 7. Sessegnon (FUL, MID)            6.750
+ 8. Cash (AVL, DEF)                 6.440
+ 9. Gabriel (ARS, DEF)              6.435
+10. Garnacho (CHE, MID)             6.200
+11. Rice (ARS, MID)                 6.190
+12. Mateta (CRY, FWD)               6.015
+13. Amad (MUN, MID)                 5.810
+14. M.Salah (LIV, MID)              5.630
+15. Gomez (BHA, MID)                5.520
+16. Szoboszlai (LIV, MID)           5.510
+17. Mitchell (CRY, DEF)             5.415
+18. Martinez (AVL, GK)              5.410
+19. Gravenberch (LIV, MID)          5.260
+20. Haaland (MCI, FWD)              5.165
 ```
 ---
 
 ### Top 10 GoalKeepers
 ```text
- 1. Pope (NEW, GK)                   6.025
- 2. Raya (ARS, GK)                   5.675
- 3. Roefs (SUN, GK)                  5.440
- 4. Donnarumma (MCI, GK)             4.530
- 5. Petrović (BOU, GK)               3.125
- 6. Leno (FUL, GK)                   2.665
- 7. Sels (NFO, GK)                   2.635
- 8. Kelleher (BRE, GK)               2.475
- 9. Vicario (TOT, GK)                2.455
-10. Sánchez (CHE, GK)                2.365
+1. Raya (ARS, GK)                  7.235
+ 2. Martinez (AVL, GK)              5.410
+ 3. Sánchez (CHE, GK)               4.505
+ 4. Verbruggen (BHA, GK)            4.360
+ 5. Henderson (CRY, GK)             4.285
+ 6. Mamardashvili (LIV, GK)         3.155
+ 7. Vicario (TOT, GK)               2.395
+ 8. Petrović (BOU, GK)              2.335
+ 9. Pickford (EVE, GK)              2.085
+10. Donnarumma (MCI, GK)            2.085
 ```
 ---
 
 ### Top 10 Defenders
 ``` text
- 1. Gabriel (ARS, DEF)              10.390
- 2. Gvardiol (MCI, DEF)              9.385
- 3. Burn (NEW, DEF)                  9.270
- 4. Rúben (MCI, DEF)                 8.145
- 5. Thiaw (NEW, DEF)                 7.600
- 6. Van Hecke (BHA, DEF)             6.695
- 7. H.Bueno (WOL, DEF)               6.595
- 8. Van de Ven (TOT, DEF)            6.565
- 9. James (CHE, DEF)                 6.470
-10. Trippier (NEW, DEF)              6.110
+ 1. J.Timber (ARS, DEF)             7.320
+ 2. Calafiori (ARS, DEF)            6.795
+ 3. Cash (AVL, DEF)                 6.440
+ 4. Gabriel (ARS, DEF)              6.435
+ 5. Mitchell (CRY, DEF)             5.415
+ 6. O’Reilly (MCI, DEF)             5.055
+ 7. Lacroix (CRY, DEF)              4.945
+ 8. Gusto (CHE, DEF)                4.755
+ 9. Van de Ven (TOT, DEF)           4.690
+10. Guéhi (CRY, DEF)                4.470
 ```
 ---
 
 ## Top 10 Midfielders
 ```text
- 1. Malen (AVL, MID)                11.895
- 2. Bruno G. (NEW, MID)              8.875
- 3. Grealish (EVE, MID)              7.845
- 4. Neto (CHE, MID)                  7.330
- 5. Mbeumo (MUN, MID)                6.730
- 6. Sarr (CRY, MID)                  6.610
- 7. Trossard (ARS, MID)              6.110
- 8. Saka (ARS, MID)                  5.785
- 9. Talbi (SUN, MID)                 5.715
-10. Rice (ARS, MID)                  5.495
+ 1. Casemiro (MUN, MID)            10.440
+ 2. Mbeumo (MUN, MID)               7.860
+ 3. Neto (CHE, MID)                 7.095
+ 4. Sessegnon (FUL, MID)            6.750
+ 5. Garnacho (CHE, MID)             6.200
+ 6. Rice (ARS, MID)                 6.190
+ 7. Amad (MUN, MID)                 5.810
+ 8. M.Salah (LIV, MID)              5.630
+ 9. Gomez (BHA, MID)                5.520
+10. Szoboszlai (LIV, MID)           5.510
 ```
 ---
 
 ## Top 10 Forwards
 ```text
- 1. Woltemade (NEW, FWD)             5.120
- 2. Haaland (MCI, FWD)               4.695
- 3. Kroupi.Jr (BOU, FWD)             3.990
- 4. João Pedro (CHE, FWD)            3.810
- 5. Mateta (CRY, FWD)                3.675
- 6. Welbeck (BHA, FWD)               3.565
- 7. Tzimas (BHA, FWD)                3.290
- 8. Isidor (SUN, FWD)                2.880
- 9. Raúl (FUL, FWD)                  2.690
-10. Gyökeres (ARS, FWD)              2.435
+1. Casemiro (MUN, MID)            10.440
+ 2. Mbeumo (MUN, MID)               7.860
+ 3. Neto (CHE, MID)                 7.095
+ 4. Sessegnon (FUL, MID)            6.750
+ 5. Garnacho (CHE, MID)             6.200
+ 6. Rice (ARS, MID)                 6.190
+ 7. Amad (MUN, MID)                 5.810
+ 8. M.Salah (LIV, MID)              5.630
+ 9. Gomez (BHA, MID)                5.520
+10. Szoboszlai (LIV, MID)           5.510
 ```

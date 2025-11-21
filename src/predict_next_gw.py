@@ -409,7 +409,7 @@ def main():
     df_hist = load_training_history()
     season_current = sorted(df_hist["season"].unique())[-1]
     df_season_hist = df_hist[df_hist["season"] == season_current].copy()
-    last_gw = df_season_hist["gameweek"].max() -1  # -1 to test predictions of older weeks
+    last_gw = df_season_hist["gameweek"].max()   # -1 to test predictions of older weeks
     next_gw = last_gw + 1
 
     print(f"Season: {season_current}, last finished GW: {last_gw}, next GW to predict: {next_gw}")

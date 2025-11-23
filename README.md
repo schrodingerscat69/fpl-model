@@ -113,14 +113,14 @@ This repo (`fpl-model`) does:
 
 ## Top 10 Forwards
 ```text
-1. Casemiro (MUN, MID)            10.440
- 2. Mbeumo (MUN, MID)               7.860
- 3. Neto (CHE, MID)                 7.095
- 4. Sessegnon (FUL, MID)            6.750
- 5. Garnacho (CHE, MID)             6.200
- 6. Rice (ARS, MID)                 6.190
- 7. Amad (MUN, MID)                 5.810
- 8. M.Salah (LIV, MID)              5.630
- 9. Gomez (BHA, MID)                5.520
-10. Szoboszlai (LIV, MID)           5.510
+ 1. Mateta (CRY, FWD)               6.015
+ 2. Haaland (MCI, FWD)              5.165
+ 3. João Pedro (CHE, FWD)           5.095
+ 4. Thiago (BRE, FWD)               4.765
+ 5. Flemming (BUR, FWD)             4.480
+ 6. Welbeck (BHA, FWD)              3.505
+ 7. Strand Larsen (WOL, FWD)        2.395
+ 8. Richarlison (TOT, FWD)          2.195
+ 9. Isidor (SUN, FWD)               2.120
+10. Raúl (FUL, FWD)                 2.115
 ```

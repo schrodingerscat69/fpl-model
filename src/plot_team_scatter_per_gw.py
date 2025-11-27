@@ -94,6 +94,14 @@ def main():
 
     for fpath in files:
         gw = _gw_from_name(fpath)
+        out_dir = OUT_BASE / f"gw{gw}"
+
+        # --- NEW: skip this GW entirely if its folder already exists ---
+        if out_dir.exists():
+            print(f"[GW{gw}] Output folder {out_dir.relative_to(ROOT)} already exists; skipping.")
+            continue
+        # ---------------------------------------------------------------
+
         df = pd.read_csv(fpath)
 
         # Basic sanity columns (as produced by your earlier script)
@@ -103,7 +111,6 @@ def main():
             print(f"[GW{gw}] Skipping {fpath.name}: missing columns {sorted(missing)}")
             continue
 
-        out_dir = OUT_BASE / f"gw{gw}"
         out_dir.mkdir(parents=True, exist_ok=True)
 
         teams = sorted(df["team_short"].dropna().unique())
@@ -123,4 +130,3 @@ def main():
 
 if __name__ == "__main__":
     raise SystemExit(main())
-

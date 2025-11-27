@@ -295,7 +295,7 @@ def main():
 
     # Train/test split cutoff.
     # train = GW <= cutoff, test = GW > cutoff.
-    cutoff_gw = 10  #update to 11 after gw12
+    cutoff_gw = 11  #update to 11 after gw12
     print(f"Using cutoff GW={cutoff_gw}:")
     print("    train = gameweek <= ", cutoff_gw)
     print("    test  = gameweek >  ", cutoff_gw)

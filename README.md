@@ -40,87 +40,87 @@ This repo (`fpl-model`) does:
 ---
 
 ## 🗓 Latest Predictions
-**Upcoming GW14 (model forecast)**
+**Upcoming GW15 (model forecast)**
 ### Top 20 Overall 
 ```text
- 1. Gomez (BHA, MID)               10.295
- 2. Sessegnon (FUL, MID)           10.260
- 3. Haaland (MCI, FWD)              9.780
- 4. Rice (ARS, MID)                 9.690
- 5. Guéhi (CRY, DEF)                9.630
- 6. Casemiro (MUN, MID)             8.940
- 7. Wieffer (BHA, MID)              8.880
- 8. Gravenberch (LIV, MID)          8.780
- 9. Amad (MUN, MID)                 8.230
-10. Xhaka (SUN, MID)                7.925
-11. João Pedro (CHE, FWD)           7.745
-12. Cherki (MCI, MID)               7.720
-13. Gabriel (ARS, DEF)              7.330
-14. J.Murphy (NEW, MID)             7.275
-15. Ndiaye (EVE, MID)               7.215
-16. Wilson (FUL, MID)               7.175
-17. Gibbs-White (NFO, MID)          7.170
-18. Lacroix (CRY, DEF)              6.895
-19. Cucurella (CHE, DEF)            6.890
-20. Leno (FUL, GK)                  6.715
+ 1. Gusto (CHE, DEF)              11.360
+ 2. Martinez (AVL, GK)            10.170
+ 3. Keane (EVE, DEF)               9.750
+ 4. Souček (WHU, MID)              9.395
+ 5. O’Reilly (MCI, DEF)            9.300
+ 6. Matheus N. (MCI, DEF)          9.190
+ 7. Gibbs-White (NFO, MID)         8.720
+ 8. Thiago (BRE, FWD)              8.165
+ 9. Trossard (ARS, MID)            8.080
+10. Buendía (AVL, MID)             7.815
+11. De Ligt (MUN, DEF)             7.775
+12. Saka (ARS, MID)                7.670
+13. Cullen (BUR, MID)              7.530
+14. Dewsbury-Hall (EVE, MID)       7.400
+15. Mitchell (CRY, DEF)            7.330
+16. Ballard (SUN, DEF)             7.270
+17. Amad (MUN, MID)                7.255
+18. Barnes (NEW, MID)              7.230
+19. Digne (AVL, DEF)               7.030
+20. Hutchinson (NFO, MID)          6.865
 ```
 ---
 
 ### Top 10 GoalKeepers
 ```text
- 1. Leno (FUL, GK)                  6.715
- 2. Mamardashvili (LIV, GK)         5.775
- 3. Henderson (CRY, GK)             4.885
- 4. Raya (ARS, GK)                  4.515
- 5. Sánchez (CHE, GK)               4.320
- 6. Verbruggen (BHA, GK)            4.050
- 7. Vicario (TOT, GK)               3.775
- 8. Martinez (AVL, GK)              3.045
- 9. Pope (NEW, GK)                  2.375
-10. Pickford (EVE, GK)              2.330
+ 1. Martinez (AVL, GK)            10.170
+ 2. Henderson (CRY, GK)            5.895
+ 3. Mamardashvili (LIV, GK)        5.655
+ 4. Pickford (EVE, GK)             5.210
+ 5. Verbruggen (BHA, GK)           4.420
+ 6. Donnarumma (MCI, GK)           4.285
+ 7. Sánchez (CHE, GK)              4.170
+ 8. Pope (NEW, GK)                 3.025
+ 9. Sels (NFO, GK)                 1.920
+10. Dúbravka (BUR, GK)             1.895
 ```
 ---
 
 ### Top 10 Defenders
 ``` text
- 1. Guéhi (CRY, DEF)                9.630
- 2. Gabriel (ARS, DEF)              7.330
- 3. Lacroix (CRY, DEF)              6.895
- 4. Cucurella (CHE, DEF)            6.890
- 5. Muñoz (CRY, DEF)                6.545
- 6. Saliba (ARS, DEF)               6.115
- 7. Calafiori (ARS, DEF)            6.015
- 8. Chalobah (CHE, DEF)             5.780
- 9. Van Hecke (BHA, DEF)            5.745
-10. Konaté (LIV, DEF)               5.670
+ 1. Gusto (CHE, DEF)              11.360
+ 2. Keane (EVE, DEF)               9.750
+ 3. O’Reilly (MCI, DEF)            9.300
+ 4. Matheus N. (MCI, DEF)          9.190
+ 5. De Ligt (MUN, DEF)             7.775
+ 6. Mitchell (CRY, DEF)            7.330
+ 7. Ballard (SUN, DEF)             7.270
+ 8. Digne (AVL, DEF)               7.030
+ 9. Lacroix (CRY, DEF)             5.970
+10. Pau (AVL, DEF)                 5.595
 ```
 ---
 
 ## Top 10 Midfielders
 ```text
- 1. Gomez (BHA, MID)               10.295
- 2. Sessegnon (FUL, MID)           10.260
- 3. Rice (ARS, MID)                 9.690
- 4. Casemiro (MUN, MID)             8.940
- 5. Wieffer (BHA, MID)              8.880
- 6. Gravenberch (LIV, MID)          8.780
- 7. Amad (MUN, MID)                 8.230
- 8. Xhaka (SUN, MID)                7.925
- 9. Cherki (MCI, MID)               7.720
-10. J.Murphy (NEW, MID)             7.275
+ 1. Souček (WHU, MID)              9.395
+ 2. Gibbs-White (NFO, MID)         8.720
+ 3. Trossard (ARS, MID)            8.080
+ 4. Buendía (AVL, MID)             7.815
+ 5. Saka (ARS, MID)                7.670
+ 6. Cullen (BUR, MID)              7.530
+ 7. Dewsbury-Hall (EVE, MID)       7.400
+ 8. Amad (MUN, MID)                7.255
+ 9. Barnes (NEW, MID)              7.230
+10. Hutchinson (NFO, MID)          6.865
 ```
 ---
 
 ## Top 10 Forwards
 ```text
- 1. Haaland (MCI, FWD)              9.780
- 2. João Pedro (CHE, FWD)           7.745
- 3. Mateta (CRY, FWD)               5.805
- 4. Welbeck (BHA, FWD)              5.700
- 5. Raúl (FUL, FWD)                 5.125
- 6. Gyökeres (ARS, FWD)             4.645
- 7. Thiago (BRE, FWD)               3.660
- 8. Igor Jesus (NFO, FWD)           3.245
- 9. Wilson (WHU, FWD)               2.170
-10. Ekitiké (LIV, FWD)              1.975
+ 1. Thiago (BRE, FWD)              8.165
+ 2. João Pedro (CHE, FWD)          5.450
+ 3. Richarlison (TOT, FWD)         5.430
+ 4. Nmecha (LEE, FWD)              4.990
+ 5. Wilson (WHU, FWD)              4.470
+ 6. Woltemade (NEW, FWD)           4.225
+ 7. Haaland (MCI, FWD)             3.805
+ 8. Flemming (BUR, FWD)            3.660
+ 9. Brobbey (SUN, FWD)             3.165
+10. Isidor (SUN, FWD)              1.970
 ```

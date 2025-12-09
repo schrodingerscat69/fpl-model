@@ -40,7 +40,7 @@ This repo (`fpl-model`) does:
 ---
 
 ## 🗓 Latest Predictions
-**Upcoming GW15 (model forecast)**
+**Upcoming GW16 (model forecast)**
 ### Top 20 Overall 
 ```text
  1. Eze (ARS, MID)                 10.480

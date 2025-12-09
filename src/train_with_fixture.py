@@ -22,7 +22,7 @@ TARGET_COL = "event_points"
 
 # Gameweek you want to inspect for residuals / error analysis.
 # Change this each time you want to look at a different finished GW.
-EVAL_GW = 14  # <-- set this manually (int). Example: 9, 10, etc.
+EVAL_GW = 15  # <-- set this manually (int). Example: 9, 10, etc.
 
 
 # ============================================================
@@ -295,7 +295,7 @@ def main():
 
     # Train/test split cutoff.
     # train = GW <= cutoff, test = GW > cutoff.
-    cutoff_gw = 13  #update to 14 after gw15
+    cutoff_gw = 14  #update to 15 after gw16
     print(f"Using cutoff GW={cutoff_gw}:")
     print("    train = gameweek <= ", cutoff_gw)
     print("    test  = gameweek >  ", cutoff_gw)

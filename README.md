@@ -40,87 +40,87 @@ This repo (`fpl-model`) does:
 ---
 
 ## 🗓 Latest Predictions
-**Upcoming GW16 (model forecast)**
+**Upcoming GW17 (model forecast)**
 ### Top 20 Overall 
 ```text
- 1. Eze (ARS, MID)                 10.480
- 2. Barnes (NEW, MID)              10.480
- 3. Mitchell (CRY, DEF)             9.925
- 4. Rogers (AVL, MID)               9.605
- 5. Gibbs-White (NFO, MID)          8.980
- 6. Nmecha (LEE, FWD)               8.945
- 7. Wilson (WHU, FWD)               8.935
- 8. N.Williams (NFO, DEF)           8.930
- 9. Lacroix (CRY, DEF)              8.845
-10. Anderson (NFO, MID)             8.825
-11. Muñoz (CRY, DEF)                8.730
-12. Andersen (FUL, DEF)             8.445
-13. Martinez (AVL, GK)              8.245
-14. Henderson (CRY, GK)             8.210
-15. Matheus N. (MCI, DEF)           7.905
-16. Enzo (CHE, MID)                 7.825
-17. Milenković (NFO, DEF)           7.820
-18. Trossard (ARS, MID)             7.725
-19. Verbruggen (BHA, GK)            7.705
-20. Mykolenko (EVE, DEF)            7.670
+ 1. Foden (MCI, MID)              11.425
+ 2. Barnes (NEW, MID)             10.735
+ 3. Thiaw (NEW, DEF)               9.920
+ 4. Gakpo (LIV, MID)               9.160
+ 5. L.Miley (NEW, MID)             9.000
+ 6. O.Dango (BRE, MID)             8.705
+ 7. E.Le Fée (SUN, MID)            8.545
+ 8. Tete (FUL, DEF)                8.405
+ 9. Kamara (AVL, MID)              8.280
+10. De Cuyper (BHA, DEF)           8.195
+11. Lacroix (CRY, DEF)             8.165
+12. Anderson (NFO, MID)            8.095
+13. Verbruggen (BHA, GK)           8.025
+14. Murillo (NFO, DEF)             7.700
+15. Wilson (WHU, FWD)              7.545
+16. Nmecha (LEE, FWD)              7.400
+17. Minteh (BHA, MID)              7.295
+18. Thiago (BRE, FWD)              7.050
+19. Andersen (FUL, DEF)            6.870
+20. Zirkzee (MUN, FWD)             6.660
 ```
 ---
 
 ### Top 10 GoalKeepers
 ```text
- 1. Martinez (AVL, GK)              8.245
- 2. Henderson (CRY, GK)             8.210
- 3. Verbruggen (BHA, GK)            7.705
- 4. Areola (WHU, GK)                7.230
- 5. Pickford (EVE, GK)              6.735
- 6. Sels (NFO, GK)                  4.480
- 7. Pope (NEW, GK)                  3.245
- 8. Leno (FUL, GK)                  3.220
- 9. Sánchez (CHE, GK)               2.950
-10. Donnarumma (MCI, GK)            2.935
+ 1. Verbruggen (BHA, GK)           8.025
+ 2. Areola (WHU, GK)               6.160
+ 3. Martinez (AVL, GK)             6.090
+ 4. Sels (NFO, GK)                 5.500
+ 5. Pickford (EVE, GK)             5.125
+ 6. Sánchez (CHE, GK)              3.170
+ 7. A.Becker (LIV, GK)             3.130
+ 8. Henderson (CRY, GK)            3.030
+ 9. Leno (FUL, GK)                 2.990
+10. Johnstone (WOL, GK)            2.795
 ```
 ---
 
 ### Top 10 Defenders
 ``` text
- 1. Mitchell (CRY, DEF)             9.925
- 2. N.Williams (NFO, DEF)           8.930
- 3. Lacroix (CRY, DEF)              8.845
- 4. Muñoz (CRY, DEF)                8.730
- 5. Andersen (FUL, DEF)             8.445
- 6. Matheus N. (MCI, DEF)           7.905
- 7. Milenković (NFO, DEF)           7.820
- 8. Mykolenko (EVE, DEF)            7.670
- 9. Savona (NFO, DEF)               7.640
-10. Bassey (FUL, DEF)               6.895
+ 1. Thiaw (NEW, DEF)               9.920
+ 2. Tete (FUL, DEF)                8.405
+ 3. De Cuyper (BHA, DEF)           8.195
+ 4. Lacroix (CRY, DEF)             8.165
+ 5. Murillo (NFO, DEF)             7.700
+ 6. Andersen (FUL, DEF)            6.870
+ 7. Konsa (AVL, DEF)               6.200
+ 8. Pau (AVL, DEF)                 6.190
+ 9. Savona (NFO, DEF)              6.070
+10. Muñoz (CRY, DEF)               6.065
 ```
 ---
 
 ## Top 10 Midfielders
 ```text
- 1. Eze (ARS, MID)                 10.480
- 2. Barnes (NEW, MID)              10.480
- 3. Rogers (AVL, MID)               9.605
- 4. Gibbs-White (NFO, MID)          8.980
- 5. Anderson (NFO, MID)             8.825
- 6. Enzo (CHE, MID)                 7.825
- 7. Trossard (ARS, MID)             7.725
- 8. Doku (MCI, MID)                 7.440
- 9. Barkley (AVL, MID)              7.310
-10. Minteh (BHA, MID)               7.030
+ 1. Foden (MCI, MID)              11.425
+ 2. Barnes (NEW, MID)             10.735
+ 3. Gakpo (LIV, MID)               9.160
+ 4. L.Miley (NEW, MID)             9.000
+ 5. O.Dango (BRE, MID)             8.705
+ 6. E.Le Fée (SUN, MID)            8.545
+ 7. Kamara (AVL, MID)              8.280
+ 8. Anderson (NFO, MID)            8.095
+ 9. Minteh (BHA, MID)              7.295
+10. Eze (ARS, MID)                 6.635
 ```
 ---
 
 ## Top 10 Forwards
 ```text
- 1. Nmecha (LEE, FWD)               8.945
- 2. Wilson (WHU, FWD)               8.935
- 3. Thiago (BRE, FWD)               6.910
- 4. Welbeck (BHA, FWD)              4.830
- 5. Richarlison (TOT, FWD)          4.080
- 6. Raúl (FUL, FWD)                 3.760
- 7. Marc Guiu (CHE, FWD)            3.430
- 8. Bowen (WHU, FWD)                3.010
- 9. Enes Ünal (BOU, FWD)            2.775
-10. Evanilson (BOU, FWD)            2.660
+ 1. Wilson (WHU, FWD)              7.545
+ 2. Nmecha (LEE, FWD)              7.400
+ 3. Thiago (BRE, FWD)              7.050
+ 4. Zirkzee (MUN, FWD)             6.660
+ 5. Welbeck (BHA, FWD)             6.400
+ 6. Woltemade (NEW, FWD)           5.990
+ 7. Isak (LIV, FWD)                5.230
+ 8. Brobbey (SUN, FWD)             4.955
+ 9. Evanilson (BOU, FWD)           4.590
+10. Flemming (BUR, FWD)            4.200
 ```

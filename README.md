@@ -36,7 +36,7 @@ This repo (`fpl-model`) does:
    - Top overall projected scorers
    - Top 10 GKs / DEFs / MIDs / FWDs for the upcoming GW  
    → This is what I actually use before the deadline.
-5. This is not a complete and fine-tuned model yet. For example: I have not included latest data on injuries so the model doesn't know if, for eg: Martinelli is injured right now (as of Nov 2, 2025). In addition, the model does not account for injuries, performance of players in other tournaments, etc.
+5. This is not a complete and fine-tuned model yet. For example: I have not included latest data on injuries so the model doesn't know if, for eg: Isak is injured right now (as of Dec 19, 2025). In addition, the model does not account for injuries, performance of players in other tournaments, etc.
 ---
 
 ## 🗓 Latest Predictions

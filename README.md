@@ -40,87 +40,87 @@ This repo (`fpl-model`) does:
 ---
 
 ## 🗓 Latest Predictions
-**Upcoming GW23 (model forecast)**
+**Upcoming GW24 (model forecast)**
 ### Top 20 Overall 
 ```text
- 1. Schade (BRE, MID)             10.995
- 2. Garner (EVE, MID)             10.010
- 3. Gravenberch (LIV, MID)         9.535
- 4. Cherki (MCI, MID)              8.875
- 5. Van de Ven (TOT, DEF)          8.850
- 6. Watkins (AVL, FWD)             8.635
- 7. Gabriel (ARS, DEF)             8.150
- 8. Ødegaard (ARS, MID)            7.530
- 9. Trossard (ARS, MID)            7.520
-10. Laurent (BUR, MID)             7.450
-11. Robinson (FUL, DEF)            7.140
-12. L.Paquetá (WHU, MID)           6.915
-13. Ajer (BRE, DEF)                6.855
-14. Mukiele (SUN, DEF)             6.755
-15. O'Brien (EVE, DEF)             6.730
-16. J.Cuenca (FUL, DEF)            6.670
-17. Mateta (CRY, FWD)              6.620
-18. Vicario (TOT, GK)              6.605
-19. Mykolenko (EVE, DEF)           6.530
-20. Spence (TOT, DEF)              6.475
+ 1. Gabriel (ARS, DEF)            11.400
+ 2. McGinn (AVL, MID)             10.915
+ 3. Janelt (BRE, MID)             10.265
+ 4. Thiaw (NEW, DEF)              10.185
+ 5. Garner (EVE, MID)              9.365
+ 6. H.Bueno (WOL, DEF)             9.350
+ 7. Enzo (CHE, MID)                8.185
+ 8. Rice (ARS, MID)                8.095
+ 9. Bruno G. (NEW, MID)            7.910
+10. Hee Chan (WOL, MID)            7.885
+11. Struijk (LEE, DEF)             7.750
+12. Collins (BRE, DEF)             7.745
+13. Thiago (BRE, FWD)              7.525
+14. L.Miley (NEW, MID)             7.525
+15. F.Kadıoğlu (BHA, DEF)          7.355
+16. Van de Ven (TOT, DEF)          7.140
+17. Veltman (BHA, DEF)             6.965
+18. Pedro Porro (TOT, DEF)         6.935
+19. Mané (WOL, FWD)                6.915
+20. Bradley (LIV, DEF)             6.825
 ```
 ---
 
 ### Top 10 GoalKeepers
 ```text
- 1. Vicario (TOT, GK)              6.605
- 2. Perri (LEE, GK)                6.075
- 3. Leno (FUL, GK)                 5.825
- 4. Pickford (EVE, GK)             5.670
- 5. Dúbravka (BUR, GK)             5.605
- 6. Roefs (SUN, GK)                5.560
- 7. Donnarumma (MCI, GK)           4.980
- 8. A.Becker (LIV, GK)             4.905
- 9. Lammens (MUN, GK)              4.735
-10. Kelleher (BRE, GK)             4.065
+ 1. José Sá (WOL, GK)              5.410
+ 2. Perri (LEE, GK)                5.400
+ 3. Roefs (SUN, GK)                5.120
+ 4. A.Becker (LIV, GK)             3.970
+ 5. Pickford (EVE, GK)             3.940
+ 6. Verbruggen (BHA, GK)           3.690
+ 7. Vicario (TOT, GK)              3.675
+ 8. Kelleher (BRE, GK)             3.560
+ 9. Donnarumma (MCI, GK)           3.110
+10. Pope (NEW, GK)                 2.680
 ```
 ---
 
 ### Top 10 Defenders
 ``` text
- 1. Van de Ven (TOT, DEF)          8.850
- 2. Gabriel (ARS, DEF)             8.150
- 3. Robinson (FUL, DEF)            7.140
- 4. Ajer (BRE, DEF)                6.855
- 5. Mukiele (SUN, DEF)             6.755
- 6. O'Brien (EVE, DEF)             6.730
- 7. J.Cuenca (FUL, DEF)            6.670
- 8. Mykolenko (EVE, DEF)           6.530
- 9. Spence (TOT, DEF)              6.475
-10. Pedro Porro (TOT, DEF)         6.425
+ 1. Gabriel (ARS, DEF)            11.400
+ 2. Thiaw (NEW, DEF)              10.185
+ 3. H.Bueno (WOL, DEF)             9.350
+ 4. Struijk (LEE, DEF)             7.750
+ 5. Collins (BRE, DEF)             7.745
+ 6. F.Kadıoğlu (BHA, DEF)          7.355
+ 7. Van de Ven (TOT, DEF)          7.140
+ 8. Veltman (BHA, DEF)             6.965
+ 9. Pedro Porro (TOT, DEF)         6.935
+10. Bradley (LIV, DEF)             6.825
 ```
 ---
 
 ## Top 10 Midfielders
 ```text
- 1. Schade (BRE, MID)             10.995
- 2. Garner (EVE, MID)             10.010
- 3. Gravenberch (LIV, MID)         9.535
- 4. Cherki (MCI, MID)              8.875
- 5. Ødegaard (ARS, MID)            7.530
- 6. Trossard (ARS, MID)            7.520
- 7. Laurent (BUR, MID)             7.450
- 8. L.Paquetá (WHU, MID)           6.915
- 9. Wirtz (LIV, MID)               5.985
-10. Hutchinson (NFO, MID)          5.945
+ 1. McGinn (AVL, MID)             10.915
+ 2. Janelt (BRE, MID)             10.265
+ 3. Garner (EVE, MID)              9.365
+ 4. Enzo (CHE, MID)                8.185
+ 5. Rice (ARS, MID)                8.095
+ 6. Bruno G. (NEW, MID)            7.910
+ 7. Hee Chan (WOL, MID)            7.885
+ 8. L.Miley (NEW, MID)             7.525
+ 9. Wirtz (LIV, MID)               6.410
+10. Casemiro (MUN, MID)            6.285
 ```
 ---
 
 ## Top 10 Forwards
 ```text
- 1. Watkins (AVL, FWD)             8.635
- 2. Mateta (CRY, FWD)              6.620
- 3. Broja (BUR, FWD)               5.415
- 4. Thiago (BRE, FWD)              5.285
- 5. Raúl (FUL, FWD)                5.175
- 6. Ekitiké (LIV, FWD)             4.260
- 7. Calvert-Lewin (LEE, FWD)       3.945
- 8. Wissa (NEW, FWD)               3.680
- 9. Richarlison (TOT, FWD)         3.585
-10. Bowen (WHU, FWD)               3.510
+ 1. Thiago (BRE, FWD)              7.525
+ 2. Mané (WOL, FWD)                6.915
+ 3. Bowen (WHU, FWD)               5.615
+ 4. Watkins (AVL, FWD)             5.310
+ 5. Mateta (CRY, FWD)              5.135
+ 6. Brobbey (SUN, FWD)             5.105
+ 7. Evanilson (BOU, FWD)           4.840
+ 8. Zirkzee (MUN, FWD)             4.435
+ 9. Broja (BUR, FWD)               4.215
+10. Beto (EVE, FWD)                4.130
 ```

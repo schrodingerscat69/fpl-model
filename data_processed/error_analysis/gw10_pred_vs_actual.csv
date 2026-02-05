@@ -49,7 +49,6 @@ gameweek,id,player_name,team_short,position,predicted_points,event_points,error,
 10,53.0,Malen,AVL,Midfielder,1.985,1,0.9850000000000001,0.9850000000000001
 10,456.0,Sancho,AVL,Midfielder,0.015,1,-0.985,0.985
 10,32.0,Martinez,AVL,Goalkeeper,1.895,1,0.895,0.895
-10,677.0,Guessand,AVL,Midfielder,1.79,1,0.79,0.79
 10,59.0,Onana,AVL,Midfielder,0.27,1,-0.73,0.73
 10,38.0,Konsa,AVL,Defender,1.67,1,0.6699999999999999,0.6699999999999999
 10,41.0,Pau,AVL,Defender,1.25,1,0.25,0.25
@@ -120,7 +119,6 @@ gameweek,id,player_name,team_short,position,predicted_points,event_points,error,
 10,174.0,Yalcouye,BHA,Midfielder,0.0,0,0.0,0.0
 10,176.0,Mazilu,BHA,Midfielder,0.0,0,0.0,0.0
 10,85.0,Adams,BOU,Midfielder,1.735,8,-6.265,6.265
-10,82.0,Semenyo,BOU,Midfielder,7.23,2,5.23,5.23
 10,90.0,Scott,BOU,Midfielder,1.295,5,-3.705,3.705
 10,87.0,Christie,BOU,Midfielder,3.505,1,2.505,2.505
 10,100.0,Kroupi.Jr,BOU,Forward,4.125,2,2.125,2.125
@@ -258,7 +256,6 @@ gameweek,id,player_name,team_short,position,predicted_points,event_points,error,
 10,244.0,Lavia,CHE,Midfielder,0.955,1,-0.04500000000000004,0.04500000000000004
 10,251.0,N.Jackson,CHE,Forward,0.0,0,0.0,0.0
 10,250.0,Delap,CHE,Forward,0.0,0,0.0,0.0
-10,243.0,George,CHE,Midfielder,0.0,0,0.0,0.0
 10,245.0,Mudryk,CHE,Midfielder,0.0,0,0.0,0.0
 10,247.0,D.Essugo,CHE,Midfielder,0.0,0,0.0,0.0
 10,248.0,Paez,CHE,Midfielder,0.0,0,0.0,0.0
@@ -271,7 +268,6 @@ gameweek,id,player_name,team_short,position,predicted_points,event_points,error,
 10,223.0,Slonina,CHE,Goalkeeper,0.0,0,0.0,0.0
 10,227.0,Colwill,CHE,Defender,0.0,0,0.0,0.0
 10,231.0,M.Sarr,CHE,Defender,0.0,0,0.0,0.0
-10,168.0,Buonanotte,CHE,Midfielder,0.0,0,0.0,0.0
 10,743.0,Emenalo,CHE,Midfielder,0.0,0,0.0,0.0
 10,272.0,Lerma,CRY,Midfielder,0.915,10,-9.085,9.085
 10,267.0,Sarr,CRY,Midfielder,9.89,3,6.890000000000001,6.890000000000001
@@ -280,7 +276,6 @@ gameweek,id,player_name,team_short,position,predicted_points,event_points,error,
 10,253.0,Henderson,CRY,Goalkeeper,1.9,6,-4.1,4.1
 10,256.0,Muñoz,CRY,Defender,2.305,6,-3.695,3.695
 10,284.0,Nketiah,CRY,Forward,3.57,0,3.57,3.57
-10,260.0,Guéhi,CRY,Defender,7.005,10,-2.995,2.995
 10,258.0,Mitchell,CRY,Defender,3.195,6,-2.805,2.805
 10,261.0,Richards,CRY,Defender,3.47,6,-2.53,2.53
 10,273.0,Wharton,CRY,Midfielder,2.33,0,2.33,2.33
@@ -360,7 +355,6 @@ gameweek,id,player_name,team_short,position,predicted_points,event_points,error,
 10,316.0,Robinson,FUL,Defender,1.01,0,1.01,1.01
 10,338.0,Muniz,FUL,Forward,0.0,1,-1.0,1.0
 10,331.0,Cairney,FUL,Midfielder,0.31,1,-0.69,0.69
-10,326.0,Adama,FUL,Midfielder,1.6,1,0.6000000000000001,0.6000000000000001
 10,337.0,Raúl,FUL,Forward,4.595,5,-0.40500000000000025,0.40500000000000025
 10,320.0,Diop,FUL,Defender,0.335,0,0.335,0.335
 10,321.0,J.Cuenca,FUL,Defender,0.185,0,0.185,0.185
@@ -450,7 +444,6 @@ gameweek,id,player_name,team_short,position,predicted_points,event_points,error,
 10,430.0,Haaland,MCI,Forward,9.735,13,-3.2650000000000006,3.2650000000000006
 10,414.0,Foden,MCI,Midfielder,0.985,4,-3.015,3.015
 10,423.0,N.Gonzalez,MCI,Midfielder,1.355,4,-2.645,2.645
-10,424.0,Bobb,MCI,Midfielder,1.05,0,1.05,1.05
 10,410.0,Lewis,MCI,Defender,1.005,0,1.005,1.005
 10,402.0,Aït-Nouri,MCI,Defender,0.0,1,-1.0,1.0
 10,421.0,Rodrigo,MCI,Midfielder,0.045,1,-0.955,0.955
@@ -467,7 +460,6 @@ gameweek,id,player_name,team_short,position,predicted_points,event_points,error,
 10,740.0,Mfuni,MCI,Defender,0.0,0,0.0,0.0
 10,399.0,Ederson M.,MCI,Goalkeeper,0.0,0,0.0,0.0
 10,429.0,Phillips,MCI,Midfielder,0.0,0,0.0,0.0
-10,400.0,Ortega Moreno,MCI,Goalkeeper,0.0,0,0.0,0.0
 10,401.0,Bettinelli,MCI,Goalkeeper,0.0,0,0.0,0.0
 10,404.0,Akanji,MCI,Defender,0.0,0,0.0,0.0
 10,406.0,Khusanov,MCI,Defender,0.0,0,0.0,0.0
@@ -567,7 +559,6 @@ gameweek,id,player_name,team_short,position,predicted_points,event_points,error,
 10,696.0,Kalimuendo,NFO,Forward,1.055,0,1.055,1.055
 10,426.0,McAtee,NFO,Midfielder,1.005,0,1.005,1.005
 10,527.0,Awoniyi,NFO,Forward,0.0,1,-1.0,1.0
-10,699.0,Douglas Luiz,NFO,Midfielder,0.025,1,-0.975,0.975
 10,521.0,Sangaré,NFO,Midfielder,0.025,1,-0.975,0.975
 10,693.0,Hutchinson,NFO,Midfielder,0.95,0,0.95,0.95
 10,669.0,Ndoye,NFO,Midfielder,1.165,1,0.16500000000000004,0.16500000000000004
@@ -691,7 +682,6 @@ gameweek,id,player_name,team_short,position,predicted_points,event_points,error,
 10,618.0,G.Rodriguez,WHU,Midfielder,0.08,0,0.08,0.08
 10,605.0,Kilman,WHU,Defender,2.065,2,0.06499999999999995,0.06499999999999995
 10,608.0,Scarles,WHU,Defender,0.06,0,0.06,0.06
-10,149.0,Igor,WHU,Defender,1.03,1,0.030000000000000027,0.030000000000000027
 10,659.0,Walker-Peters,WHU,Defender,0.98,1,-0.020000000000000018,0.020000000000000018
 10,602.0,Hegyi,WHU,Goalkeeper,0.0,0,0.0,0.0
 10,601.0,Foderingham,WHU,Goalkeeper,0.0,0,0.0,0.0
@@ -702,7 +692,6 @@ gameweek,id,player_name,team_short,position,predicted_points,event_points,error,
 10,626.0,Marshall,WHU,Forward,0.0,0,0.0,0.0
 10,607.0,N.Aguerd,WHU,Defender,0.0,0,0.0,0.0
 10,611.0,Casey,WHU,Defender,0.0,0,0.0,0.0
-10,614.0,Ward-Prowse,WHU,Midfielder,0.0,0,0.0,0.0
 10,616.0,Álvarez,WHU,Midfielder,0.0,0,0.0,0.0
 10,620.0,Earthy,WHU,Midfielder,0.0,0,0.0,0.0
 10,718.0,S.Magassa,WHU,Midfielder,0.0,0,0.0,0.0
@@ -718,11 +707,9 @@ gameweek,id,player_name,team_short,position,predicted_points,event_points,error,
 10,637.0,Toti,WOL,Defender,1.015,0,1.015,1.015
 10,638.0,Hoever,WOL,Defender,0.0,1,-1.0,1.0
 10,642.0,Hee Chan,WOL,Midfielder,0.935,0,0.935,0.935
-10,646.0,Gomes,WOL,Midfielder,1.85,1,0.8500000000000001,0.8500000000000001
 10,633.0,H.Bueno,WOL,Defender,1.61,1,0.6100000000000001,0.6100000000000001
 10,627.0,Johnstone,WOL,Goalkeeper,1.56,2,-0.43999999999999995,0.43999999999999995
 10,709.0,Krejčí,WOL,Defender,1.43,1,0.42999999999999994,0.42999999999999994
-10,654.0,Strand Larsen,WOL,Forward,1.585,2,-0.41500000000000004,0.41500000000000004
 10,645.0,Fer López,WOL,Midfielder,0.01,0,0.01,0.01
 10,720.0,Tolu,WOL,Forward,0.995,1,-0.0050000000000000044,0.0050000000000000044
 10,635.0,R.Gomes,WOL,Defender,0.005,0,0.005,0.005

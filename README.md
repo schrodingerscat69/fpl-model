@@ -43,7 +43,7 @@ This repo (`fpl-model`) does:
 **Upcoming GW25 (model forecast)**
 ### Top 20 Overall 
 ```text
-i 1. Barnes (NEW, MID)             11.960
+ 1. Barnes (NEW, MID)             11.960
  2. Aaronson (LEE, MID)           11.845
  3. Bruno G. (NEW, MID)            9.120
  4. Collins (BRE, DEF)             8.790

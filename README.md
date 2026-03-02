@@ -40,87 +40,87 @@ This repo (`fpl-model`) does:
 ---
 
 ## 🗓 Latest Predictions
-**Upcoming GW28 (model forecast)**
+**Upcoming GW29 (model forecast)**
 ### Top 20 Overall 
 ```text
- 1. Casemiro (MUN, MID)           11.380
- 2. Solanke (TOT, FWD)            10.210
- 3. Scott (BOU, MID)               9.730
- 4. Wirtz (LIV, MID)               9.690
- 5. Ekitiké (LIV, FWD)             9.520
- 6. Groß (BHA, MID)                9.245
- 7. Madueke (ARS, MID)             9.150
- 8. Diarra (SUN, MID)              8.890
- 9. Konaté (LIV, DEF)              8.605
-10. Kelleher (BRE, GK)             8.015
-11. O.Dango (BRE, MID)             7.430
-12. Gibbs-White (NFO, MID)         7.425
-13. Bowen (WHU, FWD)               7.265
-14. Semenyo (MCI, MID)             6.915
-15. Haaland (MCI, FWD)             6.910
-16. Zubimendi (ARS, MID)           6.870
-17. Summerville (WHU, MID)         6.685
-18. Cunha (MUN, MID)               6.585
-19. Wan-Bissaka (WHU, DEF)         6.505
-20. Reinildo (SUN, DEF)            6.500
+ 1. O.Dango (BRE, MID)            11.930
+ 2. Palmer (CHE, MID)              9.050
+ 3. Zubimendi (ARS, MID)           8.805
+ 4. Summerville (WHU, MID)         8.610
+ 5. Haaland (MCI, FWD)             8.375
+ 6. B.Fernandes (MUN, MID)         7.980
+ 7. Sarr (CRY, MID)                7.970
+ 8. Hill (BOU, DEF)                7.610
+ 9. Groß (BHA, MID)                7.555
+10. Rayan (BOU, MID)               7.425
+11. Lacroix (CRY, DEF)             7.330
+12. Diarra (SUN, MID)              7.300
+13. Casemiro (MUN, MID)            7.250
+14. Solanke (TOT, FWD)             7.240
+15. Scott (BOU, MID)               7.075
+16. Mainoo (MUN, MID)              7.030
+17. Gruev (LEE, MID)               7.005
+18. Szoboszlai (LIV, MID)          6.985
+19. Bernardo (MCI, MID)            6.865
+20. Dalot (MUN, DEF)               6.835
 ```
 ---
 
 ### Top 10 GoalKeepers
 ```text
- 1. Kelleher (BRE, GK)             8.015
- 2. Petrović (BOU, GK)             6.180
- 3. Roefs (SUN, GK)                5.380
- 4. Raya (ARS, GK)                 3.250
- 5. Henderson (CRY, GK)            3.000
- 6. Lammens (MUN, GK)              2.875
- 7. Verbruggen (BHA, GK)           2.800
- 8. Martinez (AVL, GK)             2.755
- 9. Donnarumma (MCI, GK)           2.365
-10. Pickford (EVE, GK)             2.290
+ 1. Hermansen (WHU, GK)            5.520
+ 2. Kelleher (BRE, GK)             5.210
+ 3. Petrović (BOU, GK)             4.990
+ 4. Lammens (MUN, GK)              4.675
+ 5. Raya (ARS, GK)                 4.490
+ 6. Henderson (CRY, GK)            3.835
+ 7. Roefs (SUN, GK)                3.380
+ 8. Martinez (AVL, GK)             3.360
+ 9. Verbruggen (BHA, GK)           2.740
+10. Pickford (EVE, GK)             2.350
 ```
 ---
 
 ### Top 10 Defenders
 ``` text
- 1. Konaté (LIV, DEF)              8.605
- 2. Wan-Bissaka (WHU, DEF)         6.505
- 3. Reinildo (SUN, DEF)            6.500
- 4. Mukiele (SUN, DEF)             6.440
- 5. Ballard (SUN, DEF)             6.255
- 6. Smith (BOU, DEF)               5.900
- 7. De Cuyper (BHA, DEF)           5.475
- 8. Alderete (SUN, DEF)            5.460
- 9. Henry (BRE, DEF)               5.435
-10. Hill (BOU, DEF)                5.425
+ 1. Hill (BOU, DEF)                7.610
+ 2. Lacroix (CRY, DEF)             7.330
+ 3. Dalot (MUN, DEF)               6.835
+ 4. Virgil (LIV, DEF)              6.230
+ 5. Wan-Bissaka (WHU, DEF)         6.155
+ 6. Mavropanos (WHU, DEF)          5.555
+ 7. O'Reilly (MCI, DEF)            5.530
+ 8. Martinez (MUN, DEF)            5.305
+ 9. Ajer (BRE, DEF)                5.285
+10. Konaté (LIV, DEF)              5.080
 ```
 ---
 
 ## Top 10 Midfielders
 ```text
- 1. Casemiro (MUN, MID)           11.380
- 2. Scott (BOU, MID)               9.730
- 3. Wirtz (LIV, MID)               9.690
- 4. Groß (BHA, MID)                9.245
- 5. Madueke (ARS, MID)             9.150
- 6. Diarra (SUN, MID)              8.890
- 7. O.Dango (BRE, MID)             7.430
- 8. Gibbs-White (NFO, MID)         7.425
- 9. Semenyo (MCI, MID)             6.915
-10. Zubimendi (ARS, MID)           6.870
+ 1. O.Dango (BRE, MID)            11.930
+ 2. Palmer (CHE, MID)              9.050
+ 3. Zubimendi (ARS, MID)           8.805
+ 4. Summerville (WHU, MID)         8.610
+ 5. B.Fernandes (MUN, MID)         7.980
+ 6. Sarr (CRY, MID)                7.970
+ 7. Groß (BHA, MID)                7.555
+ 8. Rayan (BOU, MID)               7.425
+ 9. Diarra (SUN, MID)              7.300
+10. Casemiro (MUN, MID)            7.250
 ```
 ---
 
 ## Top 10 Forwards
 ```text
- 1. Solanke (TOT, FWD)            10.210
- 2. Ekitiké (LIV, FWD)             9.520
- 3. Bowen (WHU, FWD)               7.265
- 4. Haaland (MCI, FWD)             6.910
- 5. Šeško (MUN, FWD)               5.625
- 6. Kroupi.Jr (BOU, FWD)           5.200
- 7. João Pedro (CHE, FWD)          4.875
- 8. Beto (EVE, FWD)                4.460
- 9. Delap (CHE, FWD)               3.990
-10. Raúl (FUL, FWD)                3.845
+ 1. Haaland (MCI, FWD)             8.375
+ 2. Solanke (TOT, FWD)             7.240
+ 3. Gyökeres (ARS, FWD)            6.375
+ 4. João Pedro (CHE, FWD)          5.745
+ 5. Ekitiké (LIV, FWD)             5.355
+ 6. Calvert-Lewin (LEE, FWD)       5.100
+ 7. Bowen (WHU, FWD)               4.860
+ 8. Tolu (WOL, FWD)                4.190
+ 9. Kroupi.Jr (BOU, FWD)           4.130
+10. Mayenda (SUN, FWD)             3.665
 ```

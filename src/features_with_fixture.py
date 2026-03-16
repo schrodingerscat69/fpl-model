@@ -312,6 +312,7 @@ def add_rolling_features(df):
     """
 
     df = df.sort_values(by=["season", PLAYER_ID_COL, "gameweek"]).copy()
+    g = df.groupby(["season",PLAYER_ID_COL], group_keys = False)
 
     # Base lag stuff (already had)
     df["pts_prev_gw"] = g["event_points"].shift(1)
@@ -346,7 +347,7 @@ def add_rolling_features(df):
 
     # Played >=60 proxy for nailedness
     df["played60"] = (df["minutes"] >= 60).astype(float)
-    g = df.groupby(["season", PLAYER_ID_COL], group_keys=False) # regroup after adding played60
+    #g = df.groupby(["season", PLAYER_ID_COL], group_keys=False) # regroup after adding played60
 
     df["played60_rate_last3"] = (
         g["played60"]

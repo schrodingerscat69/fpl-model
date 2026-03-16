@@ -22,7 +22,7 @@ TARGET_COL = "event_points"
 
 # Gameweek you want to inspect for residuals / error analysis.
 # Change this each time you want to look at a different finished GW.
-cutoff_gw = 27  # <-- set this manually (int). Example: 8, 9, etc.
+cutoff_gw = 29  # <-- set this manually (int). Example: 8, 9, etc.
 EVAL_GW = cutoff_gw + 1  # <-- set this manually (int). Example: 9, 10, etc.
 
 

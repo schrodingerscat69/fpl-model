@@ -40,87 +40,87 @@ This repo (`fpl-model`) does:
 ---
 
 ## 🗓 Latest Predictions
-**Upcoming GW32 (model forecast)**
+**Upcoming GW36 (model forecast)**
 ### Top 20 Overall 
 ```text
- 1. Saliba (ARS, DEF)             13.870
- 2. Gabriel (ARS, DEF)            12.530
- 3. J.Timber (ARS, DEF)           12.430
- 4. Damsgaard (BRE, MID)          12.345
- 5. J.Gomes (WOL, MID)            11.615
- 6. Aït-Nouri (MCI, DEF)          10.405
- 7. José Sá (WOL, GK)              9.860
- 8. Semenyo (MCI, MID)             9.775
- 9. Mosquera (WOL, DEF)            9.755
-10. Ekitiké (LIV, FWD)             9.375
-11. Mac Allister (LIV, MID)        8.700
-12. Hannibal (BUR, MID)            8.530
-13. R.Gomes (WOL, DEF)             8.465
-14. Rice (ARS, MID)                8.405
-15. Wilson (FUL, MID)              8.330
-16. Rodrigo (MCI, MID)             8.220
-17. Šeško (MUN, FWD)               8.120
-18. B.Fernandes (MUN, MID)         8.120
-19. Iwobi (FUL, MID)               7.920
-20. Matheus N. (MCI, DEF)          7.745
+ 1. Guéhi (MCI, DEF)              12.900
+ 2. Mavropanos (WHU, DEF)         12.775
+ 3. Wieffer (BHA, MID)             9.825
+ 4. Scott (BOU, MID)               9.725
+ 5. O'Reilly (MCI, DEF)            9.260
+ 6. N.Williams (NFO, DEF)          9.115
+ 7. Bowen (WHU, FWD)               9.020
+ 8. Thiago (BRE, FWD)              8.880
+ 9. Doku (MCI, MID)                8.505
+10. Mateta (CRY, FWD)              8.315
+11. Virgil (LIV, DEF)              8.185
+12. Roefs (SUN, GK)                8.010
+13. Taty (WHU, FWD)                8.000
+14. Okafor (LEE, MID)              7.825
+15. Cherki (MCI, MID)              7.630
+16. Boscagli (BHA, DEF)            7.460
+17. Alderete (SUN, DEF)            7.185
+18. Dewsbury-Hall (EVE, MID)       7.145
+19. Ngumoha (LIV, MID)             7.060
+20. Casemiro (MUN, MID)            6.845
 ```
 ---
 
 ### Top 10 GoalKeepers
 ```text
- 1. José Sá (WOL, GK)              9.860
- 2. Raya (ARS, GK)                 6.780
- 3. Lammens (MUN, GK)              5.445
- 4. Donnarumma (MCI, GK)           3.910
- 5. Henderson (CRY, GK)            3.235
- 6. Darlow (LEE, GK)               3.130
- 7. Verbruggen (BHA, GK)           2.640
- 8. Leno (FUL, GK)                 2.430
- 9. Petrović (BOU, GK)             2.255
-10. Sánchez (CHE, GK)              1.885
+ 1. Roefs (SUN, GK)                8.010
+ 2. Verbruggen (BHA, GK)           6.790
+ 3. Hermansen (WHU, GK)            6.055
+ 4. Mamardashvili (LIV, GK)        5.825
+ 5. Donnarumma (MCI, GK)           5.670
+ 6. Darlow (LEE, GK)               4.140
+ 7. Sels (NFO, GK)                 3.180
+ 8. Lammens (MUN, GK)              3.150
+ 9. Henderson (CRY, GK)            3.055
+10. Kinsky (TOT, GK)               3.000
 ```
 ---
 
 ### Top 10 Defenders
 ``` text
- 1. Saliba (ARS, DEF)             13.870
- 2. Gabriel (ARS, DEF)            12.530
- 3. J.Timber (ARS, DEF)           12.430
- 4. Aït-Nouri (MCI, DEF)          10.405
- 5. Mosquera (WOL, DEF)            9.755
- 6. R.Gomes (WOL, DEF)             8.465
- 7. Matheus N. (MCI, DEF)          7.745
- 8. Rúben (MCI, DEF)               7.550
- 9. Canvot (CRY, DEF)              6.865
-10. Tchatchoua (WOL, DEF)          6.765
+ 1. Guéhi (MCI, DEF)              12.900
+ 2. Mavropanos (WHU, DEF)         12.775
+ 3. O'Reilly (MCI, DEF)            9.260
+ 4. N.Williams (NFO, DEF)          9.115
+ 5. Virgil (LIV, DEF)              8.185
+ 6. Boscagli (BHA, DEF)            7.460
+ 7. Alderete (SUN, DEF)            7.185
+ 8. F.Kadıoğlu (BHA, DEF)          6.585
+ 9. Reinildo (SUN, DEF)            6.245
+10. Khusanov (MCI, DEF)            6.075
 ```
 ---
 
 ## Top 10 Midfielders
 ```text
- 1. Damsgaard (BRE, MID)          12.345
- 2. J.Gomes (WOL, MID)            11.615
- 3. Semenyo (MCI, MID)             9.775
- 4. Mac Allister (LIV, MID)        8.700
- 5. Hannibal (BUR, MID)            8.530
- 6. Rice (ARS, MID)                8.405
- 7. Wilson (FUL, MID)              8.330
- 8. Rodrigo (MCI, MID)             8.220
- 9. B.Fernandes (MUN, MID)         8.120
-10. Iwobi (FUL, MID)               7.920
+ 1. Wieffer (BHA, MID)             9.825
+ 2. Scott (BOU, MID)               9.725
+ 3. Doku (MCI, MID)                8.505
+ 4. Okafor (LEE, MID)              7.825
+ 5. Cherki (MCI, MID)              7.630
+ 6. Dewsbury-Hall (EVE, MID)       7.145
+ 7. Ngumoha (LIV, MID)             7.060
+ 8. Casemiro (MUN, MID)            6.845
+ 9. M.Salah (LIV, MID)             6.565
+10. Ayari (BHA, MID)               6.115
 ```
 ---
 
 ## Top 10 Forwards
 ```text
- 1. Ekitiké (LIV, FWD)             9.375
- 2. Šeško (MUN, FWD)               8.120
- 3. Mayenda (SUN, FWD)             7.095
- 4. Welbeck (BHA, FWD)             6.460
- 5. Bowen (WHU, FWD)               6.375
- 6. Thiago (BRE, FWD)              5.880
- 7. Armstrong (WOL, FWD)           5.685
- 8. Evanilson (BOU, FWD)           4.925
- 9. Taty (WHU, FWD)                4.855
-10. Gyökeres (ARS, FWD)            4.770
+ 1. Bowen (WHU, FWD)               9.020
+ 2. Thiago (BRE, FWD)              8.880
+ 3. Mateta (CRY, FWD)              8.315
+ 4. Taty (WHU, FWD)                8.000
+ 5. Beto (EVE, FWD)                5.865
+ 6. Osula (NEW, FWD)               5.500
+ 7. Gyökeres (ARS, FWD)            5.145
+ 8. Igor Jesus (NFO, FWD)          4.975
+ 9. Kroupi.Jr (BOU, FWD)           4.840
+10. Pablo (WHU, FWD)               3.955
 ```
